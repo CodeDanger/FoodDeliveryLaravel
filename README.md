@@ -14,10 +14,10 @@ FoodDeliveryLaravel is a software that allow to order food and handle requests w
 
 ## Contributing
 
--[CodeDanger]
+- [CodeDanger]
 
 ## License
 
 The FoodDeliveryLaravel is open-sourced software licensed with some cundtion like:
 
--[Under Islamic law laws]
+- [Under Islamic law laws]
